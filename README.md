@@ -10,6 +10,6 @@ Depending on where this script is saved to, you may want to path out to the foll
 /mnt/c/Users/$user/Downloads
 ...where $user is to be replaced with your user name
 
-Overview: Users can utilize the Windows Subsystem for Linux to edit, remove, and create Windows Grouop Policy Objects (GPOs). This program utilizes the LGPO utility from Microsoft. This program can be used to meet compliance regulations in editting Windows Security Settings and other relevant regulation standard settings dealing with GPOs. This program was created with CMMC 2.0 regulation in mind. 
+Overview: Users can utilize the Windows Subsystem for Linux to edit, remove, and create Windows Group Policy Objects (GPOs) with this program. This program utilizes the LGPO utility from Microsoft. This program can be used to meet compliance regulations in editting Windows Security Settings and other relevant regulation standard settings dealing with GPOs. This program was created with CMMC 2.0 regulation in mind. 
 
 I will be looking to publish a version compatible with Windows Command Prompt.
