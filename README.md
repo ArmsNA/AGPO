@@ -3,6 +3,8 @@ Automated Group Policy Compliance Program for Linux or devices running Windows S
 
 ATTN: **Must run Terminal as system administrator.**
 
+*AGPOv2 is out, I plan on updating this one but AGPOv2 and it's corresponding functionality with LGPO works much better (Powershell)*
+
 Lines 24, 28, 42, 58, 70, 85, 86, 89, 90, 93-96, 99, 102, 105, and 106 will require path reconfiguration local to your machine. Instantiating a path to where the LGPO utility is stored and utilizing that path throughout the program will save some trouble. 
 
 Depending on where this script is saved to, you may want to path out to the following paths in order to run the script...
