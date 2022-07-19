@@ -4,6 +4,7 @@ Automated Group Policy Compliance Program for Linux or devices running Windows S
 ATTN: **Must run Terminal as system administrator.**
 
 *AGPOv2 is out, I plan on updating this one but AGPOv2 and it's corresponding functionality with LGPO works much better (Powershell)*
+i.e. apply settings from .pol AND .txt files... current iteration only allows setting application from registery command .txt file.
 
 Depending on where this script is saved to, you may want to path out to the following paths in order to run the script...
 /mnt/c/Users/$(whoami)/Desktop
